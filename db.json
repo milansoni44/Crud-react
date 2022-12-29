@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Milan Soni",
+      "email": "milan@itccdigital.com",
+      "phone": "7600265925"
+    }
+  ]
+}
