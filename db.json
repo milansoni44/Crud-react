@@ -5,6 +5,28 @@
       "name": "Milan Soni",
       "email": "milan@itccdigital.com",
       "phone": "7600265925"
+    },
+    {
+      "empId": 2,
+      "name": "Milan Soni",
+      "email": "milan@itccdigital.com",
+      "phone": "1234567890",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Harshad Raval",
+      "email": "harshad@itccdigital.com",
+      "phone": "1234567890",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Sunny Gadani",
+      "email": "sunny@itccdigital.com",
+      "phone": "1234567890",
+      "active": true
     }
   ]
 }
